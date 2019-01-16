@@ -33,3 +33,7 @@ DEFAULT_PAGINATION = 5
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+LOAD_CONTENT_CACHE = False
+
+THEME = 'theme/python-pt'
