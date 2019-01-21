@@ -1,13 +1,11 @@
-Lorem Ipsum
-###########
+Olá mundo!
+==========
 
 :date: 2019-01-16 13:00
 :tags: lorem
 :category: Blog
-:slug: Blog
+:slug: ola-mundo
 :summary: Lorem Ipsum
-
-
 
 Itaque dolorem sit vel nisi deserunt doloribus nihil. Soluta provident aliquam iusto et voluptatibus fuga quibusdam. In voluptas dolorem omnis esse nesciunt odio eaque. Accusamus quisquam aliquid qui mollitia eligendi. Rerum ea qui aperiam ipsam vitae cum maiores nobis. Dolorum est praesentium eligendi repudiandae.
 

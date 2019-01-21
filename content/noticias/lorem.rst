@@ -1,8 +1,10 @@
-======
-Livros
-======
+Noticia #1
+==========
 
-:slug: livros
+:date: 2019-01-16 13:00
+:tags: news
+:category: Noticias
+:slug: primeira-noticia
 
 Itaque dolorem sit vel nisi deserunt doloribus nihil. Soluta provident aliquam iusto et voluptatibus fuga quibusdam. In voluptas dolorem omnis esse nesciunt odio eaque. Accusamus quisquam aliquid qui mollitia eligendi. Rerum ea qui aperiam ipsam vitae cum maiores nobis. Dolorum est praesentium eligendi repudiandae.
 

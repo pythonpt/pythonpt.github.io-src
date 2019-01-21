@@ -19,6 +19,26 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
+# URL's
+PAGE_URL = '{slug}/'
+PAGE_SAVE_AS = '{slug}/index.html'
+
+ARTICLE_URL = '{category}/{date:%Y}/{date:%m}/{date:%d}/{slug}/'
+ARTICLE_SAVE_AS = '{category}/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
+
+CATEGORY_URL = '{slug}/'
+CATEGORY_SAVE_AS = '{slug}/index.html'
+
+TAG_URL = 'tag/{slug}/'
+TAG_SAVE_AS = 'tag/{slug}/index.html'
+
+YEAR_ARCHIVE_SAVE_AS = 'arquivo/{date:%Y}/index.html'
+MONTH_ARCHIVE_SAVE_AS = 'arquivo/{date:%Y}/{date:%m}/index.html'
+DAY_ARCHIVE_SAVE_AS = 'arquivo/{date:%Y}/{date:%m}/{date:%d}/index.html'
+
+AUTHOR_URL = 'author/{slug}/'
+AUTHOR_SAVE_AS = 'author/{slug}.html'
+
 # Blogroll
 LINKS = (('Pelican', 'http://getpelican.com/'),
          ('Python.org', 'http://python.org/'),
@@ -31,9 +51,6 @@ SOCIAL = (('You can add links in your config file', '#'),
 
 DEFAULT_PAGINATION = 5
 
-# Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
-
 LOAD_CONTENT_CACHE = False
 
-THEME = 'theme/python-pt'
+# THEME = 'theme/python-pt'

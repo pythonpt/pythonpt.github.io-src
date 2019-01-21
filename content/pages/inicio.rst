@@ -9,8 +9,6 @@ Python Portugal
 Lorem Ipsum
 ===========
 
-
-
 Vero suscipit rerum molestias. Ratione adipisci minima quo. Ratione labore sit est soluta qui tempore quos. Excepturi non exercitationem dicta. Quas voluptatem explicabo atque quod ab et delectus quos. Enim inventore est temporibus.
 
 Et officia velit soluta libero dolores ea. Doloribus placeat repellendus qui et. Voluptatem ipsam voluptatem sit. Velit eaque sit impedit. Unde ipsum est ad ratione eos ratione minus.
