@@ -54,3 +54,73 @@ DEFAULT_PAGINATION = 5
 LOAD_CONTENT_CACHE = False
 
 #THEME = 'theme/python-pt'
+
+# Navbar Links da Home Page
+NAVBAR_HOME_LINKS = [
+    {
+        'title': 'Inicio',
+        'href': 'inicio',
+        'desc': 'Inicio...',
+    },
+    {
+        'title': 'Forum',
+        'href': 'forum',
+        'desc': 'Forum...',
+    },
+    {
+        'title': 'Inicie-se',
+        'href': '#',
+        'desc': 'Veja como é fácil começar a usar a linguagem.',
+    },
+    {
+        'title': 'Eventos',
+        'href': 'eventos',
+        'desc': 'Eventos...',
+    },
+    {
+        'title': 'Aprender',
+        'href': '#',
+        'desc': (
+            'Aprenda ...'
+        ),
+        'children': [
+            {
+                'title': 'Tutoriais',
+                'href': 'tutoriais',
+            },
+            {
+                'title': 'Livros',
+                'href': 'livros',
+            },
+            {
+                'title': 'videos',
+                'href': 'videos',
+            },
+            {
+                'title': 'Documentação',
+                'href': 'https://docs.python.org',
+            },
+        ]
+    },
+    {
+        'title': 'Participe',
+        'href': '#',
+        'desc': (
+            'Participe...'
+        ),
+        'children': [
+            {
+                'title': 'Mailling List',
+                'href': 'https://groups.google.com/forum/#!forum/python-pt',
+            },
+            {
+                'title': 'Facebook',
+                'href': 'https://www.facebook.com/python.pt',
+            },
+            {
+                'title': 'Twitter',
+                'href': 'https://twitter.com/pythonpt',
+            },
+        ]
+    },
+]
