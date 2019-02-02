@@ -53,4 +53,4 @@ DEFAULT_PAGINATION = 5
 
 LOAD_CONTENT_CACHE = False
 
-THEME = 'theme/python-pt'
+#THEME = 'theme/python-pt'
