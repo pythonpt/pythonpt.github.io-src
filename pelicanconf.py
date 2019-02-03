@@ -58,52 +58,56 @@ THEME = 'theme/python-pt'
 # Navbar Links da Home Page
 NAVBAR_HOME_LINKS = [
     {
-        'title': 'Inicio',
-        'href': 'inicio',
-        'desc': 'Inicio...',
-    },
-    {
-        'title': 'Forum',
-        'href': 'forum',
-        'desc': 'Forum...',
-    },
-    {
-        'title': 'Inicie-se',
-        'href': '#',
-        'desc': 'Veja como é fácil começar a usar a linguagem.',
-    },
-    {
-        'title': 'Eventos',
-        'href': 'eventos',
-        'desc': 'Eventos...',
-    },
-    {
-        'title': 'Aprender',
-        'href': '#',
-        'desc': (
-            'Aprenda ...'
-        ),
+        'title': 'Blog',
+        'href': 'blog/lorem.rst',
+        'desc': 'Blog...',
         'children': [
             {
-                'title': 'Tutoriais',
-                'href': 'tutoriais',
+                'title': "2019",
+                'href': '#',
+            },
+        ]
+    },
+    {
+        'title': 'Inicio',
+        'href': '#',
+        'desc': 'Inicio...',
+        'children': [
+            {
+                'title': 'O que é o Python?',
+                'href': '#',
+            },
+            {
+                'title': 'Quem utiliza?',
+                'href': '#',
+            },
+        ]
+    },
+    {
+        'title': 'Recursos',
+        'href': '#',
+        'desc': ('Aprenda ...'),
+        'children': [
+            {
+                'title': 'Documentação Oficial',
+                'href': 'https://docs.python.org',
             },
             {
                 'title': 'Livros',
                 'href': 'livros',
             },
             {
-                'title': 'videos',
+                'title': 'Vídeos',
                 'href': 'videos',
             },
             {
-                'title': 'Documentação',
-                'href': 'https://docs.python.org',
+                'title': 'Tutoriais',
+                'href': 'tutoriais',
             },
         ]
     },
     {
-        'title': 'Participe',
+        'title': 'Onde estamos',
         'href': '#',
         'desc': (
             'Participe...'
@@ -117,10 +121,19 @@ NAVBAR_HOME_LINKS = [
                 'title': 'Facebook',
                 'href': 'https://www.facebook.com/python.pt',
             },
+                        {
+                'title': 'Telegram',
+                'href': 'https://twitter.com/pythonpt',
+            },
             {
                 'title': 'Twitter',
                 'href': 'https://twitter.com/pythonpt',
             },
         ]
+    },
+    {
+        'title': 'Eventos',
+        'href': 'eventos',
+        'desc': 'Eventos...',
     },
 ]

@@ -1,4 +1,4 @@
-http://python.ac
+http://python.ac	?
 http://python.ad
 http://python.ae
 http://python.af
@@ -18,7 +18,7 @@ http://python.az
 http://python.ba
 http://python.bb
 http://python.bd
-http://python.be
+http://python.be	OK
 http://python.bf
 http://python.bg
 http://python.bh
@@ -35,79 +35,79 @@ http://python.bw
 http://python.by
 http://python.bz
 http://python.ca
-http://python.cc
+http://python.cc	ok
 http://python.cd
 http://python.cf
 http://python.cg
-http://python.ch
+http://python.ch	?
 http://python.ci
 http://python.ck
-http://python.cl
-http://python.cm
+http://python.cl   ah
+http://python.cm	r_python.org
 http://python.cn
-http://python.co
+http://python.co	?
 http://python.cr
 http://python.cu
 http://python.cv
 http://python.cw
-http://python.cx
+http://python.cx	ok
 http://python.cy
-http://python.cz
-http://python.de
+http://python.cz	ok
+http://python.de	ok
 http://python.dj
-http://python.dk
+http://python.dk	ah
 http://python.dm
 http://python.do
 http://python.dz
-http://python.ec
-http://python.ee
+http://python.ec	?
+http://python.ee	r_python.org
 http://python.eg
 http://python.er
-http://python.es
+http://python.es	?
 http://python.et
 http://python.eu
-http://python.fi
+http://python.fi	ok
 http://python.fj
 http://python.fk
-http://python.fm
+http://python.fm	r_python.org
 http://python.fo
 http://python.fr
-http://python.ga
+http://python.ga	?
 http://python.ge
 http://python.gf
-http://python.gg
+http://python.gg	r_python.org
 http://python.gh
 http://python.gi
-http://python.gl
+http://python.gl	?
 http://python.gn
 http://python.gp
-http://python.gq
-http://python.gr
-http://python.gs
+http://python.gq	?
+http://python.gr	v
+http://python.gs	r_python.org
 http://python.gt
 http://python.gu
 http://python.gw
-http://python.gy
-http://python.hk
+http://python.gy	r_python.org
+http://python.hk	ok
 http://python.hm
-http://python.hn
+http://python.hn	r_python.org
 http://python.hr
-http://python.ht
-http://python.hu
+http://python.ht	r_python.org
+http://python.hu	ok
 http://python.id
-http://python.ie
+http://python.ie	ok
 http://python.il
 http://python.im
 http://python.in
-http://python.io
+http://python.io	r_python.org
 http://python.iq
-http://python.ir
-http://python.is
-http://python.it
-http://python.je
+http://python.ir	ah
+http://python.is	ah
+http://python.it	ok
+http://python.je	r_python.org
 http://python.jm
 http://python.jo
-http://python.jp
+http://python.jp	ok
 http://python.ke
 http://python.kg
 http://python.kh
@@ -115,42 +115,42 @@ http://python.ki
 http://python.km
 http://python.kn
 http://python.kp
-http://python.kr
+http://python.kr	?
 http://python.kw
 http://python.ky
 http://python.kz
-http://python.la
+http://python.la	?
 http://python.lb
-http://python.lc
+http://python.lc	r_python.org
 http://python.li
 http://python.lk
 http://python.lr
 http://python.ls
 http://python.lt
 http://python.lu
-http://python.lv
+http://python.lv	ok
 http://python.ly
 http://python.ma
 http://python.mc
 http://python.md
-http://python.me
-http://python.mg
+http://python.me	v
+http://python.mg	r_python.org
 http://python.mh
 http://python.mk
 http://python.ml
 http://python.mm
-http://python.mn
+http://python.mn	r meetup python
 http://python.mo
 http://python.mp
 http://python.mq
 http://python.mr
-http://python.ms
+http://python.ms	ok
 http://python.mt
-http://python.mu
+http://python.mu	r_python.org
 http://python.mv
 http://python.mw
 http://python.mx
-http://python.my
+http://python.my	ok
 http://python.mz
 http://python.na
 http://python.nc
@@ -158,54 +158,54 @@ http://python.ne
 http://python.nf
 http://python.ng
 http://python.ni
-http://python.nl
-http://python.no
+http://python.nl	ah
+http://python.no	r_python.org
 http://python.np
 http://python.nr
-http://python.nu
-http://python.nz
+http://python.nu	?
+http://python.nz	ok
 http://python.om
 http://python.pa
 http://python.pe
 http://python.pf
 http://python.pg
-http://python.ph
-http://python.pk
-http://python.pl
+http://python.ph	ok
+http://python.pk	?
+http://python.pl	? bluescreenwebpage
 http://python.pm
 http://python.pn
 http://python.pr
 http://python.ps
-http://python.pt
-http://python.pw
+http://python.pt	ok
+http://python.pw	?
 http://python.py
 http://python.qa
-http://python.re
-http://python.ro
-http://python.rs
-http://python.ru
+http://python.re	?
+http://python.ro	ah
+http://python.rs	ok
+http://python.ru	ok
 http://python.rw
 http://python.sa
 http://python.sb
-http://python.sc
+http://python.sc	
 http://python.sd
 http://python.se
-http://python.sh
-http://python.si
+http://python.sh	ah
+http://python.si	ahah
 http://python.sj
-http://python.sk
+http://python.sk	ok
 http://python.sl
 http://python.sm
 http://python.sn
 http://python.so
 http://python.sr
 http://python.st
-http://python.su
+http://python.su	ok
 http://python.sv
-http://python.sx
+http://python.sx	r_python.org
 http://python.sy
 http://python.sz
-http://python.tc
+http://python.tc	ok
 http://python.td
 http://python.tf
 http://python.tg
@@ -218,24 +218,24 @@ http://python.tn
 http://python.to
 http://python.tr
 http://python.tt
-http://python.tv
-http://python.tw
+http://python.tv	?
+http://python.tw	v
 http://python.tz
-http://python.ua
+http://python.ua	v
 http://python.ug
 http://python.uk
-http://python.us
-http://python.uy
-http://python.uz
+http://python.us	?
+http://python.uy	ok
+http://python.uz	?
 http://python.va
-http://python.vc
+http://python.vc	r_python.org
 http://python.ve
-http://python.vg
+http://python.vg	r_python.org
 http://python.vi
-http://python.vn
+http://python.vn	ok
 http://python.vu
 http://python.wf
-http://python.ws
+http://python.ws	v
 http://python.ye
 http://python.yt
 http://python.za
