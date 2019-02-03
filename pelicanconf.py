@@ -54,3 +54,86 @@ DEFAULT_PAGINATION = 5
 LOAD_CONTENT_CACHE = False
 
 THEME = 'theme/python-pt'
+
+# Navbar Links da Home Page
+NAVBAR_HOME_LINKS = [
+    {
+        'title': 'Blog',
+        'href': 'blog/lorem.rst',
+        'desc': 'Blog...',
+        'children': [
+            {
+                'title': "2019",
+                'href': '#',
+            },
+        ]
+    },
+    {
+        'title': 'Inicio',
+        'href': '#',
+        'desc': 'Inicio...',
+        'children': [
+            {
+                'title': 'O que é o Python?',
+                'href': '#',
+            },
+            {
+                'title': 'Quem utiliza?',
+                'href': '#',
+            },
+        ]
+    },
+    {
+        'title': 'Recursos',
+        'href': '#',
+        'desc': ('Aprenda ...'),
+        'children': [
+            {
+                'title': 'Documentação Oficial',
+                'href': 'https://docs.python.org',
+            },
+            {
+                'title': 'Livros',
+                'href': 'livros',
+            },
+            {
+                'title': 'Vídeos',
+                'href': 'videos',
+            },
+            {
+                'title': 'Tutoriais',
+                'href': 'tutoriais',
+            },
+        ]
+    },
+    {
+        'title': 'Onde estamos',
+        'href': '#',
+        'desc': (
+            'Participe...'
+        ),
+        'children': [
+            {
+                'title': 'Mailling List',
+                'href': 'https://groups.google.com/forum/#!forum/python-pt',
+            },
+            {
+                'title': 'Facebook',
+                'href': 'https://www.facebook.com/python.pt',
+            },
+                        {
+                'title': 'Telegram',
+                'href': 'https://twitter.com/pythonpt',
+            },
+            {
+                'title': 'Twitter',
+                'href': 'https://twitter.com/pythonpt',
+            },
+        ]
+    },
+    {
+        'title': 'Eventos',
+        'href': 'eventos',
+        'desc': 'Eventos...',
+    },
+]
