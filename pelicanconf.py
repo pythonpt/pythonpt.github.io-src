@@ -64,11 +64,11 @@ NAVBAR_HOME_LINKS = [
         'children': [
             {
                 'title': 'O que é o Python?',
-                'href': '#',
+                'href': 'oqueeopython',
             },
             {
                 'title': 'Quem utiliza?',
-                'href': '#',
+                'href': 'quemutiliza',
             },
         ]
     },
