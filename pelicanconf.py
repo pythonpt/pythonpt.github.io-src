@@ -64,11 +64,11 @@ NAVBAR_HOME_LINKS = [
         'children': [
             {
                 'title': 'O que é o Python?',
-                'href': '#',
+                'href': 'oqueeopython',
             },
             {
                 'title': 'Quem utiliza?',
-                'href': '#',
+                'href': 'quemutiliza',
             },
         ]
     },
@@ -101,3 +101,11 @@ NAVBAR_HOME_LINKS = [
         'desc': 'Eventos...',
     },
 ]
+
+# Adiciona font-awsome para mostrar icones das redes sociais
+PLUGINS = [
+    # ...
+    'pelican_fontawesome',
+    # ...
+]
+
