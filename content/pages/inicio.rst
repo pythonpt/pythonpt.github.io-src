@@ -9,6 +9,7 @@ Python Portugal
 
 .. image:: images/pythonptwelcome.png
 
+
 A comunidade Python Portugal existe desde 2009 e tem como objectivo a partilha de experiências,  difundir e divulgar a linguagem de programação Python.
 
 Qualquer pessoa interessada pode participar na comunidade contribuindo com artigos ou ligações para recursos de Python.

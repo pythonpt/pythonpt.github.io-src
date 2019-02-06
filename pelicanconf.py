@@ -101,3 +101,11 @@ NAVBAR_HOME_LINKS = [
         'desc': 'Eventos...',
     },
 ]
+
+# Adiciona font-awsome para mostrar icones das redes sociais
+PLUGINS = [
+    # ...
+    'pelican_fontawesome',
+    # ...
+]
+
