@@ -6,7 +6,7 @@ Onde estamos
 
 
 
-- :fa:`fa-slack` `Slack <https://pythonportugal.slack.com>`_
+- :fa:`fa-slack` `Slack <https://pythonportugal.slack.com>`_ (atenção, fazer esta `inscrição <https://pythonportugal.typeform.com/to/YJ4hwR>`_)
 
 - :fa:`fa-envelope` `Mailling List <http://groups.google.com/group/python-pt>`_ 
 
