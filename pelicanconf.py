@@ -82,6 +82,10 @@ NAVBAR_HOME_LINKS = [
                 'href': 'https://docs.python.org',
             },
             {
+                'title': 'Formação',
+                'href': 'formacao',
+            },
+            { 
                 'title': 'Livros',
                 'href': 'livros',
             },
