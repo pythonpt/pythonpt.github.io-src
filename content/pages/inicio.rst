@@ -7,7 +7,9 @@ Python Portugal
 :slug: index.html
 
 
-.. image:: images/pythonptwelcome.png
+.. image:: images/python3.png
+    :align: center
+    :alt: homem com cobra na mão e castelo ao fundo com bandeira portuguesa
 
 
 A comunidade Python Portugal existe desde 2009 e tem como objectivo a partilha de experiências,  difundir e divulgar a linguagem de programação Python.
