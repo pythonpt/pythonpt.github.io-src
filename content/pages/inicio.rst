@@ -8,6 +8,7 @@ Python Portugal
 
 
 .. image:: images/python3.png
+    :class: rounded mx-auto d-block
     :align: center
     :alt: homem com cobra na mão e castelo ao fundo com bandeira portuguesa
 
