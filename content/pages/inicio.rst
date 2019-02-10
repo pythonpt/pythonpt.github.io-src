@@ -17,7 +17,7 @@ A comunidade Python Portugal existe desde 2009 e tem como objectivo a partilha d
 
 Qualquer pessoa interessada pode participar na comunidade contribuindo com artigos ou ligações para recursos de Python.
 
-Pode também falar conosco directamente, colocando as suas questões no Slack, no Telegram e na nossa mailing list.
+Pode também falar conosco directamente, colocando as suas questões no Slack e na nossa mailing list.
 
 
 
