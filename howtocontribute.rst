@@ -6,17 +6,18 @@ How to contribute
 Preparing your environment
 ##########################
 
-Start by creating a folder for the project. Create a python3 virtual environment on that folder. Fork the project on GitHub and clone it to that folder.
-
-Install pelican with
+Start by creating a folder for the project. Create a python3 virtual environment on that folder with
 ::
-   pip install pelican
+   python3 -m venv venv
 
-Install fontawsome
+
+Fork the project on GitHub and clone it inside the project folder.
+
+
+Install pelican and pelican-fontawsome
 ::
-   pip install pelican-fontawesome
+   pip install requirements_dev.txt
 
-Note: instead you could also use pip with the requirements file.
 
 
 Seeing the local version of the site
