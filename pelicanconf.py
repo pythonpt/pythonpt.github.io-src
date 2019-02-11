@@ -106,10 +106,18 @@ NAVBAR_HOME_LINKS = [
     },
 ]
 
-# Adiciona font-awsome para mostrar icones das redes sociais
+# Add font-awsome
 PLUGINS = [
     # ...
     'pelican_fontawesome',
     # ...
 ]
+
+# Add static paths
+STATIC_PATHS = ['images', 'extra/robots.txt', 'extra/favicon.ico']
+EXTRA_PATH_METADATA = {
+    'extra/robots.txt': {'path': 'robots.txt'},
+    'extra/favicon.ico': {'path': 'favicon.ico'}
+}
+
 
