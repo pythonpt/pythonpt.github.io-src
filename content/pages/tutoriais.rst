@@ -4,13 +4,33 @@ Tutoriais
 
 :slug: tutoriais
 
-Itaque dolorem sit vel nisi deserunt doloribus nihil. Soluta provident aliquam iusto et voluptatibus fuga quibusdam. In voluptas dolorem omnis esse nesciunt odio eaque. Accusamus quisquam aliquid qui mollitia eligendi. Rerum ea qui aperiam ipsam vitae cum maiores nobis. Dolorum est praesentium eligendi repudiandae.
 
-Aperiam et nisi deserunt voluptas officia porro salias. Dolor omnis quia enim nobis. Omnis soluta perferendis sequi maxime. Quisquam iure reiciendis ipsum laboriosam repudiandae sunt nihil. Magni quos blanditiis quidem perspiciatis sit.
+Todos os níveis
+---------------
+- `Real Python <https://realpython.com/>`__ - Excelente fonte de guias de Python para todo o tipo de situações. Recomendado!
+- `LearnPython.org interactive Python tutorial <https://www.learnpython.org/>`__
 
-Mollitia perspiciatis perferendis exercitationem in ea consectetur saepe. Officia quis cupiditate officia amet commodi expedita. Consequatur numquam corporis quam neque numquam quaerat debitis. Aliquam nihil quod consectetur quidem veniam omnis qui.
 
-Et nesciunt eaque nihil voluptas et eum ut repellendus. Dignissimos dolores accusantium eius assumenda aut. Voluptates vero consequatur qui aut occaecati. Laborum suscipit et fugiat.
+Introdução
+----------
 
-Est consequatur consequuntur numquam quaerat aut unde. Voluptatibus facilis culpa nesciunt. Quae aut corporis delectus.
+- `The Python Tutorial <https://docs.python.org/3/tutorial/index.html>`__
 
+- `Python na W3Schools <https://www.w3schools.com/python/>`__
+
+- `Introdução ao Python <https://tutorial.djangogirls.org/pt/python_introduction/>`__ - Django Girls Tutorial
+
+- `LearnPython.org interactive Python tutorial <https://www.learnpython.org/>`__
+
+
+Nível Intermédio
+----------------
+- `The Python Tutor <https://www.thepythontutor.com/>`__
+
+
+Nivel Avançado
+-------------------------
+
+- `The Hitchhiker’s Guide to Python! <https://docs.python-guide.org/#the-hitchhiker-s-guide-to-python>`__
+  
+- `Python Advanced Course Topics <https://www.python-course.eu/advanced_topics.php>`__
