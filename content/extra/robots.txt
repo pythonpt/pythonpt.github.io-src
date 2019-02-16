@@ -1,4 +1,5 @@
-texto
+User-agent: *
+Allow: /
 
 
 
