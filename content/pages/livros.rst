@@ -16,6 +16,22 @@ Livros
    Applications <https://www.packtpub.com/web-development/building-django-20-web-applications>`__
 
 
+-  `xx 
+   <xxxx>`__
+
+
+-  `xx 
+   <xxxx>`__
+
+
+-  `xx 
+   <xxxx>`__
+
+
+-  `xx 
+   <xxxx>`__
+
+
 
 2017
 ~~~~
@@ -28,6 +44,22 @@ Livros
 
 -  `Beginning Django Web Application Development and Deployment with
    Python <https://www.apress.com/br/book/9781484227862>`__
+
+
+-  `Practical Machine Learning with Python 
+   <https://books.google.pt/books/about/Practical_Machine_Learning_with_Python.html?id=9ClEDwAAQBAJ&redir_esc=y>`__
+
+
+-  `xx 
+   <xxxx>`__
+
+
+-  `xx 
+   <xxxx>`__
+
+
+-  `xx 
+   <xxxx>`__
 
 
 
@@ -53,6 +85,18 @@ Livros
    BluePrints <https://www.packtpub.com/web-development/django-project-blueprints>`__
 
 
+-  `xx 
+   <xxxx>`__
+
+
+-  `xx 
+   <xxxx>`__
+
+
+-  `xx 
+   <xxxx>`__
+
+
 
 2015
 ~~~~
@@ -65,6 +109,20 @@ Livros
 
 -  `Django Design Patterns and Best
    Practices <https://www.amazon.com/Django-Design-Patterns-Best-Practices/dp/1783986646>`__
+
+-  `Automate the Boring Stuff with Python: Practical Programming for Total Beginners 
+   <https://books.google.pt/books/about/Automate_the_Boring_Stuff_with_Python.html?id=8AcvDwAAQBAJ&redir_esc=y>`__
+
+-  `High Performance Django 
+   <https://books.google.pt/books/about/High_Performance_Django.html?id=5xdOrgEACAAJ&redir_esc=y>`__
+
+
+-  `xx 
+   <xxxx>`__
+
+
+-  `xx 
+   <xxxx>`__
 
 
 
@@ -89,6 +147,18 @@ Livros
    JavaScript <https://www.amazon.com/Test-Driven-Development-Python-Selenium-JavaScript/dp/1449364829>`__
 
 
+-  `xx 
+   <xxxx>`__
+
+
+-  `xx 
+   <xxxx>`__
+
+
+-  `xx 
+   <xxxx>`__
+
+
 
 2013
 ~~~~
@@ -106,3 +176,17 @@ Livros
 
 -  `Think Python: How to Think Like a Computer
    Scientist <http://www.greenteapress.com/thinkpython/thinkpython.html>`__
+
+2005
+~~~~
+
+
+-  `Python Cookbook 
+   <https://books.google.pt/books/about/Python_Cookbook.html?id=1Shx_VXS6ioC&redir_esc=y>`__
+
+-  `xx 
+   <xxxx>`__
+
+-  `xx 
+   <xxxx>`__
+
