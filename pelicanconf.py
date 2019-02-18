@@ -58,21 +58,6 @@ THEME = 'theme/python-pt'
 # Navbar Links da Home Page
 NAVBAR_HOME_LINKS = [
     {
-        'title': 'Inicio',
-        'href': '#',
-        'desc': 'Inicio...',
-        'children': [
-            {
-                'title': 'O que é o Python?',
-                'href': 'oqueeopython',
-            },
-            {
-                'title': 'Quem utiliza?',
-                'href': 'quemutiliza',
-            },
-        ]
-    },
-    {
         'title': 'Recursos',
         'href': '#',
         'desc': ('Aprenda ...'),
