@@ -5,7 +5,7 @@ O que é o Python ?
 :slug: acerca
 
 
-.. image:: images/what_is_python.png
+.. image:: /images/what_is_python.png
     :class: rounded mx-auto d-block
     :align: center
     :alt: rapariga ao computador pensando no logo do python
