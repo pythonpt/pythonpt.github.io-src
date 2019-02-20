@@ -7,7 +7,7 @@ Python Portugal
 :slug: index.html
 
 
-.. image:: images/python3.png
+.. image:: /images/python3.png
     :class: rounded mx-auto d-block
     :align: center
     :alt: homem com cobra na mão e castelo ao fundo com bandeira portuguesa
