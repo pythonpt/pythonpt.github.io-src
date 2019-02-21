@@ -5,7 +5,7 @@ A linguagem de programação Python
 :slug: acerca
 
 
-.. image:: /images/what_is_python.png
+.. image:: /images/what_is_python2.png
     :class: img-fluid rounded mx-auto d-block
     :align: center
     :alt: rapariga ao computador pensando no logo do python
