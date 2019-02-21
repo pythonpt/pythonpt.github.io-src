@@ -5,7 +5,7 @@ Eventos
 :slug: eventos
 
 .. image:: /images/eventos2.png
-    :class: rounded mx-auto d-block
+    :class: img-fluid rounded mx-auto d-block
     :align: center
     :alt: cobra caminhando
 
