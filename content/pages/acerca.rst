@@ -1,14 +1,18 @@
-==================
-O que é o Python ?
-==================
+=================================
+A linguagem de programação Python
+=================================
 
 :slug: acerca
 
 
 .. image:: /images/what_is_python.png
-    :class: rounded mx-auto d-block
+    :class: img-fluid rounded mx-auto d-block
     :align: center
     :alt: rapariga ao computador pensando no logo do python
+
+
+O que é o Python?
+~~~~~~~~~~~~~~~~~
 	  
 O Python é uma linguagem de programação de alto nível, interpretada, para programação de âmbito geral. Criada por Guido van Rossum e inicialmente lançada em 1991, o Python tem uma filosofia de design que dá enfase à legibilidade do código, notavelmente usando espaços em branco com significado. O Python possui construções que permitem uma programação clara em pequena e grande escala.
 

@@ -5,7 +5,7 @@ Onde estamos
 :slug: ondeestamos
 
 .. image:: /images/ondeestamos2.png
-    :class: rounded mx-auto d-block
+    :class: img-fluid rounded mx-auto d-block
     :align: center
     :alt: cobra numa ilha do tesouro
 
