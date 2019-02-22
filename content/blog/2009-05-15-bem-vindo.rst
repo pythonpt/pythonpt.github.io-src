@@ -1,0 +1,20 @@
+Bem-vindo
+=========
+
+:title: Bem-vindo
+:slug: bem-vindo
+:category: Blog
+:tags: django, grupo, python
+:date: 2009-05-15 17:23:52
+:authors: Nuno Mariz
+
+O Python Portugal é uma comunidade de utilizadores portugueses de `Python <http://www.python.org>`_, que tem como objectivo a partilha de experiências, difundir e divulgar a linguagem de programação `Python <http://www.python.org>`_.
+
+O grupo foi criado em 21 de Abril de 2009 e tem funcionado até agora apenas com uma `mailing list <http://groups.google.com/group/python-pt>`_ e uma conta de `Twitter <http://twitter.com/python_pt>`_. A página estreia-se hoje apenas com o blog e uma secção de links.
+Os futuros planos da página passam por acrescentar algumas secções que julgo importantes, tais como a bolsa de emprego, um planeta com a agregação de entradas de blog dos membros, uma secção de análise de livros e um Wiki.
+
+A página foi criada com a framework `Django <http://www.djangoproject.com/>`_ e posteriormente será colocada num repositório público de forma a que os membros colaborem na sua evolução ou para quem esteja interessado em aprender a framework.
+
+Se é um utilizador ou se deseja aprender a linguagem de programação `Python <http://www.python.org>`_, junte-se a nós. Pode começar pelo registo na página e na mailing list.
+
+Divirta-se, `Nuno Mariz <http://mariz.org>`_.
