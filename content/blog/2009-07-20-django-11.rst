@@ -1,0 +1,14 @@
+Django 1.1
+==========
+
+:title: Django 1.1
+:slug: django-11
+:category: Blog
+:tags: django, frameworks
+:date: 2009-07-29 10:18:23
+:authors: Nuno Mariz
+
+Foi lançada a versão 1.1 da framework Django.
+
+Para além das `actualizações de segurança <http://www.djangoproject.com/weblog/2009/jul/28/security/>`_ existe uma extensa `lista de novidades <http://docs.djangoproject.com/en/dev/releases/1.1/>`_.
+

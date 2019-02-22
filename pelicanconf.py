@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Python Portugal Team'
 SITENAME = u'Python Portugal'
-SITEURL = ''
+SITEURL = 'http://python.pt/'
 
 PATH = 'content'
 
@@ -70,7 +70,7 @@ NAVBAR_HOME_LINKS = [
                 'title': 'Formação',
                 'href': 'formacao',
             },
-            { 
+            {
                 'title': 'Livros',
                 'href': 'livros',
             },
