@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Python Portugal Team'
 SITENAME = u'Python Portugal'
-SITEURL = 'http://python.pt/'
+SITEURL = ''
 
 PATH = 'content'
 
