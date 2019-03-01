@@ -17,5 +17,7 @@ Onde estamos
 
 - :fa:`fa-facebook-official` `Facebook <https://www.facebook.com/groups/329345051248352/>`_
 
+- :fa:`fa-telegram` `Telegram <https://t.me/pythonpt>`_
+
 - :fa:`fa-github` `GitHub <https://github.com/pythonpt/>`_
 
