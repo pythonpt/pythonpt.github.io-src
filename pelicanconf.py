@@ -10,7 +10,7 @@ PATH = 'content'
 
 TIMEZONE = 'Europe/Lisbon'
 
-DEFAULT_LANG = u'en'
+DEFAULT_LANG = u'pt-BR'
 
 # Google Analytics
 GOOGLE_ANALYTICS = 'UA-950364-17'
