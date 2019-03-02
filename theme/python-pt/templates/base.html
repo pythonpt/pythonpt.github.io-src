@@ -41,7 +41,7 @@
     <body id="index" class="archive">
         <div class="container">
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
-		<a class="navbar-brand" href="{{SITEURL}}/index.html"><img class="img-fluid" src="{{SITEURL}}/images/python_pt-logo.gif" /></a>
+		<a class="navbar-brand" href="/index.html"><img class="img-fluid" src="/images/python_pt-logo.gif" /></a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"  aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -49,19 +49,19 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav mr-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="{{SITEURL}}/acerca">Acerca</a>
+                        <a class="nav-link" href="/acerca">Acerca</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="{{SITEURL}}/ondeestamos">Onde estamos</a>
+                        <a class="nav-link" href="/ondeestamos">Onde estamos</a>
                     </li>
                     <li class="nav-item">
-			            <a class="nav-link" href="{{SITEURL}}/blog/">Blog</a>
+			            <a class="nav-link" href="/blog/">Blog</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="{{SITEURL}}/eventos">Eventos</a>
+                        <a class="nav-link" href="/eventos">Eventos</a>
                     </li>
                     <li class="nav-item">
-			            <a class="nav-link" href="{{SITEURL}}/empregos">Empregos</a>
+			            <a class="nav-link" href="/empregos">Empregos</a>
                     </li>
                 {% for link in NAVBAR_HOME_LINKS[:-1] %}
                     <li class="nav-item dropdown">
@@ -74,7 +74,7 @@
                                 {% if sublink.href.startswith('http') %}
                                   <a class="dropdown-item" href="{{ sublink.href }}">{{ sublink.title }}</a>
                                 {% else %}
-                                  <a class="dropdown-item" href="{{ SITEURL }}/{{ sublink.href }}">{{ sublink.title }}</a>
+                                  <a class="dropdown-item" href="/{{ sublink.href }}">{{ sublink.title }}</a>
                                 {% endif %}
                               {% endfor %}
                         </div>
