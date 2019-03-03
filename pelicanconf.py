@@ -39,7 +39,7 @@ YEAR_ARCHIVE_SAVE_AS = 'arquivo/{date:%Y}/index.html'
 MONTH_ARCHIVE_SAVE_AS = 'arquivo/{date:%Y}/{date:%m}/index.html'
 DAY_ARCHIVE_SAVE_AS = 'arquivo/{date:%Y}/{date:%m}/{date:%d}/index.html'
 
-AUTHOR_URL = 'author/{slug}/'
+AUTHOR_URL = 'author/{slug}.html'
 AUTHOR_SAVE_AS = 'author/{slug}.html'
 
 # Blogroll
