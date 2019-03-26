@@ -9,7 +9,11 @@ Eventos
     :align: center
     :alt: cobra caminhando
 
-- Meetup do `Python Porto <https://www.meetup.com/pt-BR/pyporto/>`_ 
+- `Python Porto <https://www.meetup.com/pt-BR/pyporto/>`_. O PythonLX é o maior grupo ativo de Python em Lisboa. Realizam encontros mensais onde acontece uma grande variedade de palestras relacionadas ao Python. Também marcam presença no `Facebook <https://www.facebook.com/groups/pythonporto>`_
 
-- Meetup do `Python Lx <https://www.meetup.com/pt-BR/Python-LX/>`_ 
+- `Python Lx <https://www.meetup.com/pt-BR/Python-LX/>`_. Partilham conhecimento, aprimoram habilidades de programação e divertem-se.
+
+- `Python Meetup Lisbon <https://www.meetup.com/pt-BR/Python-Lisbon/>`_. Com apresentações e discussões sobre desenvolvimento de software em Python.
+
+- `Python Lisbon <https://www.meetup.com/pt-BR/meetup-group-DhenaRTO/>`_. Oportunidade de crescer tecnicamente, aprendendo e partilhando com outros programadores locais.
 
