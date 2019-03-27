@@ -1,6 +1,6 @@
-========
-Empregos
-========
+==================
+Empregos em Python
+==================
 
 :slug: empregos
 
@@ -10,5 +10,8 @@ Empregos
     :align: center
     :alt: cobra trabalhando
 
-Brevemente...
+
+
+- `Lisboa (ITjobs) <https://www.itjobs.pt/emprego?q=python+lisboa />`_
+- `Porto (ITjobs) <https://www.itjobs.pt/emprego?q=python+porto />`_
 
