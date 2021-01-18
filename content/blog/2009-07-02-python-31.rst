@@ -1,0 +1,14 @@
+Python 3.1
+==========
+
+:title: Python 3.1
+:slug: python-31
+:category: Blog
+:tags: python
+:date: 2009-07-02 09:22:02
+:authors: Nuno Mariz
+
+Foi lançada no passado dia 27 de Junho a versão 3.1 do Python.
+
+A lista das novidades encontram-se `aqui <http://docs.python.org/dev/py3k/whatsnew/3.1.html>`_.
+
