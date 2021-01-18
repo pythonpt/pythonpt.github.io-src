@@ -15,7 +15,7 @@ Onde estamos
 
 - :fa:`fa-twitter` `Twiter <https://twitter.com/python_pt>`_
 
-- :fa:`fa-facebook-official` `Facebook <https://www.facebook.com/groups/329345051248352/>`_
+- :fa:`fa-facebook-official` `Facebook <https://www.facebook.com/groups/pythonPortugal>`_
 
 - :fa:`fa-telegram` `Telegram <https://t.me/pythonpt>`_
 
