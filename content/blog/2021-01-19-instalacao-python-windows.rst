@@ -369,4 +369,4 @@ Como instalar várias versões Python no Windows 10
 
 .. |virtualenv_windows| raw:: html
 
-   <a href="http://127.0.0.1:8000/blog/2021/01/20/virtualenv-windows" target="_blank" rel="noopener">Como usar e criar Virtualenv no Windows 10</a>
+   <a href="https://python.pt/blog/2021/01/20/virtualenv-windows" target="_blank" rel="noopener">Como usar e criar Virtualenv no Windows 10</a>
