@@ -3,7 +3,7 @@ Como instalar várias versões Python no Windows 10
 
 :title: Como instalar várias versões Python no Windows 10
 :date: 2021-01-19 17:00
-:tags: python, windows
+:tags: python, windows, instalação
 :category: Blog
 :slug: instalacao-python-windows
 :summary: Como instalar várias versões Python no Windows 10, de maneira simples e rápida
