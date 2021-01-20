@@ -97,7 +97,7 @@ Instalação Python 3.9.0
 .. image:: /images/antonio_01_03.jpeg
     :class: img-fluid rounded d-block
     :align: left
-    :alt: Versões do Python
+    :alt: Instalação do Python 3.9.0
 
 |
 |
@@ -108,7 +108,7 @@ Instalação Python 3.9.0
 .. image:: /images/antonio_01_04.png
     :class: img-fluid rounded d-block
     :align: left
-    :alt: Versões do Python
+    :alt: Instalação do Python 3.9.0 opções
 
 |
 |
@@ -136,7 +136,7 @@ Instalação Python 3.9.0
 .. image:: /images/antonio_01_05.jpeg
     :class: img-fluid rounded d-block
     :align: left
-    :alt: Versões do Python
+    :alt: Instalação do Python 3.9.0 opções
 
 |
 |
@@ -148,7 +148,7 @@ Instalação Python 3.9.0
 .. image:: /images/antonio_01_06.jpeg
     :class: img-fluid rounded d-block
     :align: left
-    :alt: Versões do Python
+    :alt: Instalação do Python 3.9.0 final
 
 |
 |
@@ -175,7 +175,7 @@ Confirmar a instalação
 .. image:: /images/antonio_01_07.jpeg
     :class: img-fluid rounded d-block
     :align: left
-    :alt: Versões do Python
+    :alt: Instalação do Python 3.9.0 confirmação
 
 |
 |
@@ -196,7 +196,7 @@ Instalação Python 3.7.9
 .. image:: /images/antonio_01_08.jpeg
     :class: img-fluid rounded d-block
     :align: left
-    :alt: Versões do Python
+    :alt: Instalação do Python 3.7.9
 
 |
 |
@@ -204,7 +204,7 @@ Instalação Python 3.7.9
 .. image:: /images/antonio_01_09.jpeg
     :class: img-fluid rounded d-block
     :align: left
-    :alt: Versões do Python
+    :alt: Instalação do Python 3.7.9 opções
 
 |
 |
@@ -212,7 +212,7 @@ Instalação Python 3.7.9
 .. image:: /images/antonio_01_10.jpeg
     :class: img-fluid rounded d-block
     :align: left
-    :alt: Versões do Python
+    :alt: Instalação do Python 3.7.9 final
 
 |
 |
@@ -229,7 +229,7 @@ Confirmar a instalação do Python 3.7.9
 .. image:: /images/antonio_01_11.jpeg
     :class: img-fluid rounded d-block
     :align: left
-    :alt: Versões do Python
+    :alt: Instalação do Python 3.7.9 confirmação
 
 |
 |
@@ -242,7 +242,7 @@ Confirmar a instalação do Python 3.7.9
 .. image:: /images/antonio_01_12.jpeg
     :class: img-fluid rounded d-block
     :align: left
-    :alt: Versões do Python
+    :alt: Instalação do Python 3.7.9 confirmação
 
 |
 |
@@ -263,7 +263,7 @@ Variáveis de ambiente (PATH)
 .. image:: /images/antonio_01_13.jpeg
     :class: img-fluid rounded d-block
     :align: left
-    :alt: Versões do Python
+    :alt: Path do Windows acessar
 
 |
 |
@@ -271,7 +271,7 @@ Variáveis de ambiente (PATH)
 .. image:: /images/antonio_01_14.jpeg
     :class: img-fluid rounded d-block
     :align: left
-    :alt: Versões do Python
+    :alt: Path do Windows acessar
 
 |
 |
@@ -279,7 +279,7 @@ Variáveis de ambiente (PATH)
 .. image:: /images/antonio_01_15.jpeg
     :class: img-fluid rounded d-block
     :align: left
-    :alt: Versões do Python
+    :alt: Path do Windows acessar
 
 |
 |
@@ -290,7 +290,7 @@ Variáveis de ambiente (PATH)
 .. image:: /images/antonio_01_16.jpeg
     :class: img-fluid rounded d-block
     :align: left
-    :alt: Versões do Python
+    :alt: Path do Windows alterar
 
 |
 |
@@ -307,7 +307,7 @@ Variáveis de ambiente (PATH)
 .. image:: /images/antonio_01_17.jpeg
     :class: img-fluid rounded d-block
     :align: left
-    :alt: Versões do Python
+    :alt: Path do Windows alterar
 
 |
 |
@@ -315,7 +315,7 @@ Variáveis de ambiente (PATH)
 .. image:: /images/antonio_01_18.jpeg
     :class: img-fluid rounded d-block
     :align: left
-    :alt: Versões do Python
+    :alt: Path do Windows alterar
 
 |
 |
@@ -326,7 +326,7 @@ Variáveis de ambiente (PATH)
 .. image:: /images/antonio_01_19.jpeg
     :class: img-fluid rounded d-block
     :align: left
-    :alt: Versões do Python
+    :alt: Path do Windows alterar
 
 |
 |
@@ -345,7 +345,7 @@ Confirmação
 .. image:: /images/antonio_01_20.jpeg
     :class: img-fluid rounded d-block
     :align: left
-    :alt: Versões do Python
+    :alt: Confirmação instalação Python no Windows
 
 |
 |
