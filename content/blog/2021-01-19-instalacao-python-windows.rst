@@ -64,7 +64,7 @@ Downloads necessários
 ---------------------
 
 |
-| Vamos na página de downloads do Python para Windows para escolhermos a versões que necessitamos.
+| Vamos na página de downloads do Python para Windows para escolhermos as versões que necessitamos.
 |
 | |windows_download|
 
@@ -140,7 +140,7 @@ Instalação Python 3.9.0
 
 |
 |
-| Terminando a instalação, eu desabilito a limitação do limite de 260 caracteres para o Path.
+| Terminando a instalação, eu desabilito a limitação de 260 caracteres para o Path.
 |
 | Apertamos em Close e já temos o Python 3.9.0 no Windows 10.
 |
