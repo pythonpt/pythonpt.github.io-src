@@ -108,6 +108,7 @@ output/
 
 # editor temp files
 *.*~
+.idea
 
 # Patches
 *.diff
