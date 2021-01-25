@@ -366,7 +366,7 @@ Como instalar várias versões Python no Windows 10, conclusão.
   neste artigo:
 | |virtualenv_windows|.
 |
-| Autor |antonio_neves|
+| Autor: |antonio_neves|
 |
 |
 
