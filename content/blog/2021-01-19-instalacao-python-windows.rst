@@ -73,7 +73,7 @@ Downloads necessários
    <a href="https://www.python.org/downloads/windows/" target="_blank" rel="noopener">www.python.org/downloads/windows/</a>
 
 |
-| Para o nosso tutorial vou escolher as opções ” Windows x86-64 executable installer “
+| Para o nosso tutorial escolhemos as opções ” Windows x86-64 executable installer “
 |
 
 .. image:: /images/antonio_01_02.jpeg
@@ -90,8 +90,8 @@ Instalação Python 3.9.0
 
 |
 | Vamos começar a instalação.
-| Depois de iniciar o arquivo baixado anteriormente, recomendo que deixem
-  marcadas as opções, como mostro na foto, em seguida apertamos em “Customize Installation”.
+| Depois de iniciar o arquivo baixado anteriormente, deixamos marcadas
+  as opções, como na foto, em seguida apertamos em “Customize Installation”.
 |
 
 .. image:: /images/antonio_01_03.jpeg
@@ -119,7 +119,7 @@ Instalação Python 3.9.0
   desenvolver um projeto completo, um sistema, uma aplicação, utilizo |pycharm|,
   mas para abrir um arquivo, fazer um teste, uma alteração simples, Sublime é o ideal.
 |
-| O local de instalação deixo em: C:\\Program Files\\Python39.
+| O local de instalação deixamos em: C:\\Program Files\\Python39.
 |
 | Em seguida podemos finalmente apertar em “Install”.
 
@@ -140,7 +140,7 @@ Instalação Python 3.9.0
 
 |
 |
-| Terminando a instalação, eu desabilito a limitação de 260 caracteres para o Path.
+| Terminando a instalação, desabilitamos a limitação de 260 caracteres para o Path.
 |
 | Apertamos em Close e já temos o Python 3.9.0 no Windows 10.
 |
@@ -246,7 +246,9 @@ Confirmar a instalação do Python 3.7.9
 
 |
 |
-| Um problema que podemos resolver facilmente, alterando as variáveis de ambiente, para que possamos ter no Windows, como versão principal do Python a que nós preferirmos.
+| Um problema que podemos resolver facilmente, alterando as variáveis de
+  ambiente, para que possamos ter no Windows, como versão principal do
+  Python a que nós preferirmos.
 |
 |
 
@@ -319,8 +321,8 @@ Variáveis de ambiente (PATH)
 
 |
 |
-| Para terminar, o nosso PATH deve ficar como na foto abaixo. Finalmente
-  apertamos em “OK” em todas as janelas para fechar.
+| Para terminar, o nosso PATH deve ficar como na foto abaixo.
+| Finalmente apertamos em “OK” em todas as janelas para fechar.
 |
 
 .. image:: /images/antonio_01_19.jpeg
@@ -337,7 +339,8 @@ Confirmação
 -----------
 
 |
-| Na seção anterior eu mostrei como escolher a versão 3.9.0 para que seja o Python principal do Windows.
+| Na seção anterior vimos como escolher a versão 3.9.0 para que seja
+  o Python principal do Windows.
 | Vamos agora confirmar que tudo está certo digitando no terminal os comandos já conhecidos.
 |
 |
@@ -352,8 +355,8 @@ Confirmação
 
 ------
 
-Como instalar várias versões Python no Windows 10
--------------------------------------------------
+Como instalar várias versões Python no Windows 10, conclusão.
+-------------------------------------------------------------
 
 |
 | Quero lembrar que qualquer instalação do Python no sistema operativo
@@ -363,10 +366,14 @@ Como instalar várias versões Python no Windows 10
   neste artigo:
 | |virtualenv_windows|.
 |
-| Para finalizar, agradeço por teres chegado até aqui, e desejo que este post tenha sido útil.
+| Autor |antonio_neves|
 |
 |
 
 .. |virtualenv_windows| raw:: html
 
    <a href="https://python.pt/blog/2021/01/20/virtualenv-windows" target="_blank" rel="noopener">Como usar e criar Virtualenv no Windows 10</a>
+
+.. |antonio_neves| raw:: html
+
+   <a href="https://github.com/Antonio-Neves" target="_blank" rel="noopener">António Manuel Neves</a>
