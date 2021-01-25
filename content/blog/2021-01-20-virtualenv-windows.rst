@@ -10,4 +10,12 @@ Como usar e criar Virtualenv no Windows 10
 :authors: António Neves
 
 |
-| Ainda sendo redigido.
+
+.. image:: /images/antonio_02_01.jpeg
+    :class: img-fluid rounded mx-auto d-block
+    :align: center
+    :alt: Python no windows 10
+
+|
+
+
