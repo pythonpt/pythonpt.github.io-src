@@ -163,7 +163,7 @@ Criar um ambiente virtual.
 |
 | Entramos dentro da pasta que criamos anteriormente.
 |
-| Agora temos 2 opções, ou criamos uma nova pasta com o nome que escolhermos
+| Agora temos duas opções, ou criamos uma nova pasta com o nome que escolhermos
   para o ambiente virtual e depois dentro da pasta criamos o ambiente,
   ou vamos criar diretamente a pasta e o ambiente ao mesmo tempo.
 | Não sei explicar porquê, mas eu costumo criar primeiro a pasta escolhendo
